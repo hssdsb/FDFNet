@@ -39,4 +39,5 @@ python train_yolo_v8.py --gpu '0' \
 This project is based on and inspired by:
 1. [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 2. [A Fast and Accurate One-Stage Approach to Visual Grounding](https://github.com/zyang-ur/onestage_grounding)
+
 We thank the authors for their great work!
